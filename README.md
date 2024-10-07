@@ -22,7 +22,6 @@
 7. [Project Structure](#project-structure)
 8. [Getting Started](#getting-started)
 9. [Future Enhancements](#future-enhancements)
-10. [License](#license)
 
 ## Features
 
@@ -232,7 +231,3 @@ This project is a starting point for Flutter development. For a detailed guide o
 - **User Authentication**: Implement user accounts and login using Supabase's authentication services.
 - **Recipe Sharing**: Allow users to share their favorite recipes with friends and family.
 - **Push Notifications**: Notify users of new recipes or special features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
