@@ -86,7 +86,7 @@ To install the Recipe Book app on your local development environment, follow the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/recipe_book.git
+   git clone https://github.com/thabang-xyz/recipe_book.git
    cd recipe_book
    ```
 
