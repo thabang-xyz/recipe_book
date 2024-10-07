@@ -1,0 +1,7 @@
+class ConfigKeys {
+  static const String bearerToken =
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFucWNqb25oZW12amdlZm1qZW94Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY0ODYyMzcsImV4cCI6MjAzMjA2MjIzN30.HpZOeaG-vv4NdEYnbI5R_qL322Ip-9rRbvo5V9BNUpc";
+
+  static const String apiKey =
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFucWNqb25oZW12amdlZm1qZW94Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTY0ODYyMzcsImV4cCI6MjAzMjA2MjIzN30.HpZOeaG-vv4NdEYnbI5R_qL322Ip-9rRbvo5V9BNUpc";
+}
